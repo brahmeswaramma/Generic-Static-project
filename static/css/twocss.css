@@ -1,0 +1,34 @@
+*
+{
+    margin:0px;
+}
+
+#style>h1
+{
+    background:linear-gradient(45deg,deeppink,yellow,blue,green);
+    color: cornsilk;
+}
+#style1>img
+{
+  border-radius: 20px;
+ 
+  background-position: fixed;
+
+
+ 
+
+}
+#style1>img:hover
+
+    
+body
+{
+    background-color: cyan;
+    height: 100%;
+}
+#blessie
+{
+    color:white
+
+    
+}

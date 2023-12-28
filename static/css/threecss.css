@@ -1,0 +1,28 @@
+*
+{
+    margin:0px;
+}
+#style
+{
+    background-color: aqua;
+}
+#style>h1
+{
+    background:linear-gradient(45deg,deeppink,yellow,blue,green);
+    color: cornsilk;    
+}
+#style>h1:hover
+{
+   text-decoration:underline;
+}
+
+#style1>img
+{
+  border-radius: 20px;
+
+}
+#style1>img:hover
+{
+    width: 250px;
+    height: 250px;
+}
